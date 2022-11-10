@@ -1,6 +1,8 @@
 // make code cleaner + see if i can rewrite the fetch
 const ballSet = document.getElementById('ballSet');
-
+// rewrite pseudo into here
+// try to make the code cleaner
+// 
 
 
 const updateCard = (pokeball) => {

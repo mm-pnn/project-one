@@ -1,0 +1,76 @@
+body {
+    background-image: url('https://wallpaperaccess.com/full/1794017.png');
+    background-size: cover;
+    height: 100vh;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;  */
+}
+
+h1 {
+    position: absolute;
+    top: 20%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    font-weight: bolder;
+
+}
+
+.cardContainer{
+    position: relative;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.4);
+    height: 450px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.cardImg{
+    height: 100px;
+    width: 100px;
+}
+
+/* .cardCost{
+    
+    
+} */
+
+
+/* .cardTitle{
+    
+} */
+
+
+.btn{
+    border: none;
+    outline: none;
+    background-color: rgba(255, 255, 255, 0.1);
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.4);
+    padding: 10px 30px;
+    font-size: 20px;
+    color: black;
+    margin: 10px;
+    position: relative;
+    /* display: flex; */
+    top: 275px;
+    left: 835px;
+    
+    
+}
+
+.btn:hover{
+    background: powderblue;
+}
+
+
+
+
+
