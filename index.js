@@ -2,7 +2,7 @@
 const ballSet = document.getElementById('ballSet');
 // rewrite pseudo into here
 // try to make the code cleaner
-// 
+// find a way for the users to know they can use arrow keys to use the prev/next btn
 
 
 const updateCard = (pokeball) => {
